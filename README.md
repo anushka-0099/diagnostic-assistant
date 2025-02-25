@@ -35,9 +35,9 @@ Chatbot: Google AI Studio (Dialogflow)
 
 📊 Dataset
 
-📌 NIH Chest X-ray Dataset for pneumonia classification.
-📌 CT-MRI paired datasets for image translation.
-📌 Public symptom-disease datasets (Kaggle) for symptom-based diagnosis.
+📌 Chest X-ray Dataset for pneumonia classification. https://www.kaggle.com/datasets/alifrahman/chestxraydataset/data
+📌 CT-MRI paired datasets for image translation. https://www.kaggle.com/datasets/darren2020/ct-to-mri-cgan/data
+📌 Public symptom-disease datasets (Kaggle) for symptom-based diagnosis. https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
 
 🔧 Installation & Setup
 
