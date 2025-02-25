@@ -8,7 +8,7 @@ The AI-powered diagnostic assistant is an integrated platform that assists healt
 
 🔬 Medical Image Analysis
 
-✅ CT-to-MRI Conversion: Uses Pix2Pix GAN to generate MRI-like images from CT scans.
+✅ CT-to-MRI Conversion: Uses Pix2Pix GAN to generate MRI-like images from CT scans.<br>
 ✅ Chest X-ray Disease Classification: Implements ResNet-50 to detect pneumonia and other diseases from X-ray images.
 
 🏥 Symptom-Based Disease Prediction
@@ -18,7 +18,7 @@ The AI-powered diagnostic assistant is an integrated platform that assists healt
 
 💬 AI Chatbot (Google AI Studio - Dialogflow)
 
-✅ Provides preventive measures, symptom assessment, and health recommendations.
+✅ Provides preventive measures, symptom assessment, and health recommendations.<br>
 ✅ Helps patients and doctors with disease-related queries and guidance.
 
 🛠 Tech Stack
@@ -35,9 +35,9 @@ Chatbot: Google AI Studio (Dialogflow)
 
 📊 Dataset
 
-📌 Chest X-ray Dataset for pneumonia classification. https://www.kaggle.com/datasets/alifrahman/chestxraydataset/data
-📌 CT-MRI paired datasets for image translation. https://www.kaggle.com/datasets/darren2020/ct-to-mri-cgan/data
-📌 Public symptom-disease datasets (Kaggle) for symptom-based diagnosis. https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
+📌 Chest X-ray Dataset for pneumonia classification. https://www.kaggle.com/datasets/alifrahman/chestxraydataset/data <br>
+📌 CT-MRI paired datasets for image translation. https://www.kaggle.com/datasets/darren2020/ct-to-mri-cgan/data <br>
+📌 Public symptom-disease datasets (Kaggle) for symptom-based diagnosis. https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning <br>
 
 🔧 Installation & Setup
 
