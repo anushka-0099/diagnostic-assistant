@@ -56,7 +56,6 @@ Google AI Studio account
 1️⃣ Clone the repository:
 
 git clone https://github.com/yourusername/AI-Diagnostic-Assistant.git
-cd AI-Diagnostic-Assistant
 
 2️⃣ Install dependencies:
 
@@ -66,6 +65,6 @@ pip install -r requirements.txt
 
 python app.py
 
-4️⃣ Deploy chatbot on Google AI Studio (Instructions in docs/chatbot_setup.md)
+4️⃣ Deploy chatbot on Google AI Studio
 
 
